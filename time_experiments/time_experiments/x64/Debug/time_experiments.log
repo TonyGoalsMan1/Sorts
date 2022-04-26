@@ -1,0 +1,14 @@
+﻿  time_experiments.cpp
+C:\Users\User\OneDrive\Рабочий стол\5c\sorting_alg.h\sorting_alg.h\sorting_alg.h(14,3): error C2371: SortFunc: переопределение; различные базовые типы
+C:\Users\User\OneDrive\Рабочий стол\5c\sorting_alg.h\sorting_alg.h\sorting_alg.h(6): message : см. объявление "SortFunc"
+C:\Users\User\OneDrive\Рабочий стол\5c\sorting_alg.h\sorting_alg.h\sorting_alg.h(44,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\5c\sorting_alg.h\sorting_alg.h\sorting_alg.h(72,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\5c\sorting_alg.h\sorting_alg.h\sorting_alg.h(87,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\5c\sorting_alg.h\sorting_alg.h\sorting_alg.h(94,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\5c\sorting_alg.h\sorting_alg.h\sorting_alg.h(152,26): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\5c\sorting_alg.h\sorting_alg.h\sorting_alg.h(239,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\5c\time_experiments\time_experiments\time_experiments.cpp(66,16): warning C4477: "printf": в строке форматирования "%ld" требуется аргумент типа "long", но вариативный аргумент "1" имеет тип "size_t"
+C:\Users\User\OneDrive\Рабочий стол\5c\time_experiments\time_experiments\time_experiments.cpp(66,16): message : рекомендуется использовать "%zd" в строке форматирования
+C:\Users\User\OneDrive\Рабочий стол\5c\time_experiments\time_experiments\time_experiments.cpp(71,17): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\OneDrive\Рабочий стол\5c\time_experiments\time_experiments\time_experiments.cpp(102,9): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\OneDrive\Рабочий стол\5c\time_experiments\time_experiments\time_experiments.cpp(103,19): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
